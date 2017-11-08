@@ -1,4 +1,4 @@
-# Hacking-With-Swift---Swift-Coding-Challenges
+# Hacking With Swift - Swift Coding Challenges
 This repo contains my solutions to the problem sets contained in "Hacking with Swift - Swift Coding Challenges"
 
 ![](art/scc.png?raw=true)
