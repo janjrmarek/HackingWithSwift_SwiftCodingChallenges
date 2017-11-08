@@ -8,10 +8,10 @@ This repo contains my solutions to the problem sets contained in "Hacking with S
 Problem # | Solution | Description
 | ------------- | ------------- | ------------- 
 | 1. Are the letters unique?| [My Solution](Part%201%20-%20String%20Solutions/Challenge1.playground)|Write a function that accepts a String as its only parameter, and returns true if the string has only unique letters, taking letter case into account.|
-| 2. Is a string a palindrome?| |Write a function that accepts a String as its only parameter, and returns true if the string reads the same when reversed, ignoring case.|
-| 3. Do two strings contain the same characters?| |Write a function that accepts two String parameters, and returns true if they contain the same characters in any order taking into account letter case.|
-| 4. Does one string contain another?| |Write your own version of the contains() method on String that ignores letter case, and without using the existing contains() method.|
-| 5. Count the characters| |Write a function that accepts a string, and returns how many times a specific character appears, taking case into account.| 
+| 2. Is a string a palindrome?|[My Solution](Part%201%20-%20String%20Solutions/Challenge2.playground)|Write a function that accepts a String as its only parameter, and returns true if the string reads the same when reversed, ignoring case.|
+| 3. Do two strings contain the same characters?|[My Solution](Part%201%20-%20String%20Solutions/Challenge3.playground)|Write a function that accepts two String parameters, and returns true if they contain the same characters in any order taking into account letter case.|
+| 4. Does one string contain another?|[My Solution](Part%201%20-%20String%20Solutions/Challenge4.playground)|Write your own version of the contains() method on String that ignores letter case, and without using the existing contains() method.|
+| 5. Count the characters|[My Solution](Part%201%20-%20String%20Solutions/Challenge5.playground)|Write a function that accepts a string, and returns how many times a specific character appears, taking case into account.| 
 | 6. | | |
 | 7. | | | 
 | 8. | | |
