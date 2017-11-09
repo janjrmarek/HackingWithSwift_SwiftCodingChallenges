@@ -17,8 +17,8 @@ Problem # | Solution | Description
 | 8. String is rotated|[My Solution](Part%201%20-%20String%20Solutions/Challenge8.playground)|Write a function that accepts two strings, and returns true if one string is rotation of the other, taking letter case into account.|
 | 9. Find pangrams|[My Solution](Part%201%20-%20String%20Solutions/Challenge9.playground)|Write a function that returns true if it is given a string that is an English pangram, ignoring letter case.| 
 | 10. Vowels and consonants|[My Solution](Part%201%20-%20String%20Solutions/Challenge10.playground)|Given a string in English, return a tuple containing the number of vowels and consonants.|
-| 11. | | | 
-| 12. | | |
+| 11. Three different letters| |Write a function that accepts two strings, and returns true if they are identical in length but have no more than three different letters, taking case and string order into account.| 
+| 12. Find longest prefix| |Write a function that accepts a string of words with a similar prefix, separated by spaces, and returns the longest substring that prefixes all words.|
 | 13. | | | 
 | 14. | | |
 | 15. | | | 
