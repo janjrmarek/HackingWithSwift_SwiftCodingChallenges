@@ -19,9 +19,9 @@ Problem # | Solution | Description
 | 10. Vowels and consonants|[My Solution](Part%201%20-%20String%20Solutions/Challenge10.playground)|Given a string in English, return a tuple containing the number of vowels and consonants.|
 | 11. Three different letters|[My Solution](Part%201%20-%20String%20Solutions/Challenge11.playground)|Write a function that accepts two strings, and returns true if they are identical in length but have no more than three different letters, taking case and string order into account.| 
 | 12. Find longest prefix|[My Solution](Part%201%20-%20String%20Solutions/Challenge12.playground)|Write a function that accepts a string of words with a similar prefix, separated by spaces, and returns the longest substring that prefixes all words.|
-| 13. | | | 
-| 14. | | |
-| 15. | | | 
+| 13. Run-length encoding| |Write a function that accepts a string as input, then returns how often each letter is repeated in a single run, taking case into account.| 
+| 14. String permutations| |Write a function that prints all possible permutations of a given input string.|
+| 15. Reverse the words in a string| |Write a function that returns a string with each of its words reversed but in the original order, without using a loop.| 
 ## Part 2 - Numbers
 Problem # | Solution |
 | ------------- | ------------- 
