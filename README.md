@@ -66,11 +66,11 @@ Problem # | Solution | Description
 ## Part 4 - Algorithms
 Problem # | Solution | Description 
 | ------------- | ------------- |  ------------- 
-| 55. Bubble sort| |Create an extension for arrays that sorts them using the bubble sort algorithm.|
-| 56. Insertion sort| |Create an extension for arrays that sorts them using the insertion sort algorithm.|
-| 57. Isomorphic values| |Write a function that accepts two values and returns true if they are isomorphic. That is, each part of the value must map to precisely one other, but that might be itself.|
-| 58. Balanced brackets| |Write a function that accepts a string containing the characters (, [, {, <, >, }, ], and ) in any arrangement and frequency. It should return true if the brackets are opened and closed in the correct order, and if all brackets are closed. Any other input should false.|
-| 59. Quicksort| |Create an extension for arrays that sorts them using the quicksort algorithm.|
+| 55. Bubble sort|[My Solution](Part%205%20-%20Algorithms/Challenge55.playground)|Create an extension for arrays that sorts them using the bubble sort algorithm.|
+| 56. Insertion sort|[My Solution](Part%205%20-%20Algorithms/Challenge56.playground)|Create an extension for arrays that sorts them using the insertion sort algorithm.|
+| 57. Isomorphic values|[My Solution](Part%205%20-%20Algorithms/Challenge57.playground)|Write a function that accepts two values and returns true if they are isomorphic. That is, each part of the value must map to precisely one other, but that might be itself.|
+| 58. Balanced brackets|[My Solution](Part%205%20-%20Algorithms/Challenge58.playground)|Write a function that accepts a string containing the characters (, [, {, <, >, }, ], and ) in any arrangement and frequency. It should return true if the brackets are opened and closed in the correct order, and if all brackets are closed. Any other input should false.|
+| 59. Quicksort|[My Solution](Part%205%20-%20Algorithms/Challenge59.playground)|Create an extension for arrays that sorts them using the quicksort algorithm.|
 | 60. | | |
 | 61. | | |
 | 62. | | |
