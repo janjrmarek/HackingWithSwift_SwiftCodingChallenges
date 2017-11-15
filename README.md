@@ -66,11 +66,11 @@ Problem # | Solution | Description
 ## Part 4 - Algorithms
 Problem # | Solution | Description 
 | ------------- | ------------- |  ------------- 
-| 55. | | |
-| 56. | | |
-| 57. | | |
-| 58. | | |
-| 59. | | |
+| 55. Bubble sort| |Create an extension for arrays that sorts them using the bubble sort algorithm.|
+| 56. Insertion sort| |Create an extension for arrays that sorts them using the insertion sort algorithm.|
+| 57. Isomorphic values| |Write a function that accepts two values and returns true if they are isomorphic. That is, each part of the value must map to precisely one other, but that might be itself.|
+| 58. Balanced brackets| |Write a function that accepts a string containing the characters (, [, {, <, >, }, ], and ) in any arrangement and frequency. It should return true if the brackets are opened and closed in the correct order, and if all brackets are closed. Any other input should false.|
+| 59. Quicksort| |Create an extension for arrays that sorts them using the quicksort algorithm.|
 | 60. | | |
 | 61. | | |
 | 62. | | |
