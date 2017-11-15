@@ -42,6 +42,25 @@ Problem # | Solution | Description
 | 25. Calculate a square root by hand|[My Solution](Part%202%20-%20Number%20Solutions/Challenge25.playground)|Write a function that returns the square root of a positive integer, rounded down to the nearest integer, without using sqrt().|
 | 26. Subtract without subtract|[My Solution](Part%202%20-%20Number%20Solutions/Challenge26.playground)|Create a function that subtracts one positive integer from another, without using -.|
 ## Part 3 - Files
+## Part 4 - Collections
+Problem # | Solution | Description 
+| ------------- | ------------- |  ------------- 
+| 37. | | |
+| 38. | | |
+| 39. | | |
+| 40. | | |
+| 41. | | |
+| 42. | | |
+| 43. | | |
+| 44. | | |
+| 45. | | |
+| 46. | | |
+| 47. | | |
+| 48. | | |
+| 49. | | |
+| 50. | | |
+| 51. | | |
+| 52. | | |
+| 53. | | |
+| 54. | | |
 
-
-## Support or Contact
