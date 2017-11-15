@@ -30,7 +30,7 @@ Problem # | Solution | Description
 ## Part 2 - Numbers
 Problem # | Solution | Description 
 | ------------- | ------------- |  ------------- 
-| 16. Fizz Buzz| | Write a function that counts from 1 through 100, and prints “Fizz” if the counter is evenly divisible by 3, “Buzz” if it’s evenly divisible by 5, “Fizz Buzz” if it’s even divisible by three and five, or the counter number for all other cases. |
+| 16. Fizz Buzz|[My Solution](Part%202%20-%20Number%20Solutions/Challenge16.playground)| Write a function that counts from 1 through 100, and prints “Fizz” if the counter is evenly divisible by 3, “Buzz” if it’s evenly divisible by 5, “Fizz Buzz” if it’s even divisible by three and five, or the counter number for all other cases. |
 | 17. Generate a random number in a range| |Write a function that accepts positive minimum and maximum integers, and returns a random number between those two bounds, inclusive.|
 | 18. Recreate the pow() function| | Create a function that accepts positive two integers, and raises the first to the power of the second.|
 | 19. Swap two numbers| |Swap two positive variable integers, a and b, without using a temporary variable.|
