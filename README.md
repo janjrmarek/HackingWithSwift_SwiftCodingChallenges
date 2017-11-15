@@ -28,19 +28,19 @@ Problem # | Solution | Description
 | 14. String permutations|[My Solution](Part%201%20-%20String%20Solutions/Challenge14.playground)|Write a function that prints all possible permutations of a given input string.|
 | 15. Reverse the words in a string|[My Solution](Part%201%20-%20String%20Solutions/Challenge15.playground)|Write a function that returns a string with each of its words reversed but in the original order, without using a loop.| 
 ## Part 2 - Numbers
-Problem # | Solution |
-| ------------- | ------------- 
-| 16. | | 
-| 17. | |
-| 18. | | 
-| 19. | |
-| 20. | | 
-| 21. | |
-| 22. | | 
-| 23. | |
-| 24. | | 
-| 25. | |
-| 26. | |
+Problem # | Solution | Description 
+| ------------- | ------------- |  ------------- 
+| 16. Fizz Buzz| | Write a function that counts from 1 through 100, and prints “Fizz” if the counter is evenly divisible by 3, “Buzz” if it’s evenly divisible by 5, “Fizz Buzz” if it’s even divisible by three and five, or the counter number for all other cases. |
+| 17. Generate a random number in a range| |Write a function that accepts positive minimum and maximum integers, and returns a random number between those two bounds, inclusive.|
+| 18. Recreate the pow() function| | Create a function that accepts positive two integers, and raises the first to the power of the second.|
+| 19. Swap two numbers| |Swap two positive variable integers, a and b, without using a temporary variable.|
+| 20. Number is prime| |Write a function that accepts an integer as its parameter and returns true if the number is prime.|
+| 21. Counting binary ones| |Create a function that accepts any positive integer and returns the next highest and next lowest number that has the same number of ones in its binary representation. If either number is not possible, return nil for it.|
+| 22. Binary reverse| | Create a function that accepts an unsigned 8-bit integer and returns its binary reverse, padded so that it holds precisely eight binary digits.| 
+| 23. Integer disguised as string| |Write a function that accepts a string and returns true if it contains only numbers, i.e. the digits 0 through 9.|
+| 24. Add numbers inside a string| |Given a string that contains both letters and numbers, write a function that pulls out all the numbers then returns their sum.| 
+| 25. Calculate a square root by hand| |Write a function that returns the square root of a positive integer, rounded down to the nearest integer, without using sqrt().|
+| 26. Subtract without subtract| |Create a function that subtracts one positive integer from another, without using -.|
 ## Part 3 - Files
 
 
