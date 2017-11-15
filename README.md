@@ -3,8 +3,8 @@ This repo contains my solutions to the problem sets contained in "Hacking with S
 
 ![](art/hwscover.png?raw=true)
 ## Sections
-1 - Strings
-2 - Numbers
+|1 - Strings|
+|2 - Numbers|
 3 - Files
 4 - Collections
 5 - Algorithms
