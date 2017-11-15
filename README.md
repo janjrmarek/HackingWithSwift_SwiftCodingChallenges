@@ -45,14 +45,14 @@ Problem # | Solution | Description
 ## Part 4 - Collections
 Problem # | Solution | Description 
 | ------------- | ------------- |  ------------- 
-| 37. | | |
-| 38. | | |
-| 39. | | |
-| 40. | | |
-| 41. | | |
-| 42. | | |
-| 43. | | |
-| 44. | | |
+| 37. Count the numbers|[My Solution](Part%204%20-%20Collections/Challenge37.playground)|Write an extension for collections of integers that returns the number of times a specific digit appears in any of its numbers.|
+| 38. Find N smallest| |Write an extension for all collections that returns the N smallest elements as an array, sorted smallest first, where N is an integer parameter.|
+| 39. Sort a string array by length| |Extend collections with a function that returns an array of strings sorted by their lengths, longest first.|
+| 40. Missing numbers in array| |Create a function that accepts an array of unsorted numbers from 1 to 100 where zero or more numbers might be missing, and returns an array of the missing numbers.|
+| 41. Find the median| |Write an extension to collections that accepts an array of Int and returns the median average, or nil if there are no values.|
+| 42. Recreate index(of:)| |Write an extension for all collections that reimplements the index(of:) method.|
+| 43. Linked lists| |Create a linked list of lowercase English alphabet letters, along with a method that traverses all nodes and prints their letters on a single line separated by spaces.|
+| 44. Linked list mid-point| |Extend your linked list class with a new method that returns the node at the mid point of the linked list using no more than one loop.|
 | 45. | | |
 | 46. | | |
 | 47. | | |
