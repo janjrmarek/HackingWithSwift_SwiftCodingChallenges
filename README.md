@@ -2,7 +2,12 @@
 This repo contains my solutions to the problem sets contained in "Hacking with Swift - Swift Coding Challenges"
 
 ![](art/hwscover.png?raw=true)
-
+## Sections
+1 - Strings
+2 - Numbers
+3 - Files
+4 - Collections
+5 - Algorithms
 
 ## Part 1 - Strings
 Problem # | Solution | Description
